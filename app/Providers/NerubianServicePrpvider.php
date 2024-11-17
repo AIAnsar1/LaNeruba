@@ -21,4 +21,6 @@ class NerubianServicePrpvider extends ServiceProvider
     {
         //
     }
+
+    public function configurePackage()
 }
